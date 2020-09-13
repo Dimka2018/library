@@ -31,6 +31,7 @@
 .filter:hover{
 	color:white;
 	background:rgb(152,179,206);
+	cursor: pointer;
 }
 
 .search-container{
@@ -108,6 +109,10 @@
 	display:flex;
 	flex-direction:column;
 	align-items:flex-start;
+}
+
+.book-present img:hover {
+	cursor:pointer;
 }
 
 .filter-container{

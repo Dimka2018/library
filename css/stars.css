@@ -22,6 +22,10 @@
  float: right; 
 }
 
+.rating > label:hover {
+  cursor: pointer;
+}
+
 /***** CSS Magic to Highlight Stars on Hover *****/
 
 .rating > input:checked ~ label, /* show gold star when clicked */

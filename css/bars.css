@@ -65,6 +65,7 @@ body{
 .hoverable-blue:hover{
 	color:white;
 	background:rgb(22,164,250);
+	cursor: pointer;
 }
 
 #useless-point{
@@ -165,6 +166,10 @@ button{
 	height:40%;
 }
 
+#mapping-panel button:hover {
+	cursor: pointer;
+}
+
 #mapping-panel button .fa-circle{
 	font-size:0.6vw;
 }
@@ -187,6 +192,10 @@ button{
 	font-size:1.1vw;
 	font-weight:bold;
 	text-align:center;
+}
+
+#add-book-butt:hover {
+    cursor: pointer;
 }
 
 #user-photo{
