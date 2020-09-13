@@ -1,8 +1,8 @@
 # LIBRARY
 
-Simple react js example
+Nice js example
 
-<img src="images/jquery.jpg" alt="jquery" width="100" height="100"/>
+<img src="assets/jquery.jpg" alt="jquery" width="100" height="100"/>
 
 ##### Technologies:
 * HTML, CSS, JS, JQuery
